@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bijoy Kumar Roy</h1>
 
+- 🖥️ Data Scientist
 
-- 🌱 I’m currently exploring NLP
+- 🌱 I’m currently exploring web3
 
 - 📫 How to reach me **bijoy2014amp@gmail.com**
 
